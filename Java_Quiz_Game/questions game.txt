@@ -1,0 +1,131 @@
+1. Which data type can store whole numbers without decimals?
+
+a) float
+b) double
+c) boolean
+d) int
+
+2. What keyword is used to define a new class in Java?
+
+a) function
+b) object
+c) class
+d) define
+
+3. What symbol is used to represent multiplication in Java?
+
+a) *
+b) /
+c) +
+d) –
+
+4. What is the output of the following code snippet? int x = 5; int y = 10; System.out.println(x + y);
+
+a) 0
+b) 5
+c) 10
+d) 15
+
+5. Which statement is NOT true about Java arrays?
+
+a) Arrays store a collection of elements of the same data type.
+b) Arrays are indexed starting from 0.
+c) Arrays can be resized dynamically.
+d) Arrays can only store primitive data types.
+
+6. What keyword is used to create a loop that executes a block of code repeatedly?
+
+a) if
+b) while
+c) for
+d) switch
+
+7. What is the purpose of the public keyword in a Java class?
+
+a) Makes the class private.
+b) Makes the class accessible from anywhere in the program.
+c) Defines the name of the class.
+d) Stores data for the class.
+
+8. What is the difference between a method and a constructor?
+
+a) Methods return values, constructors don't.
+b) Constructors are called only once when an object is created, methods can be called multiple times.
+c) Both methods and constructors can be used to define the behavior of a class.
+d) All of the above.
+
+9. What is the purpose of the Scanner class in Java?
+
+a) To format and display output on the screen.
+b) To read input from the user keyboard.
+c) To perform mathematical calculations.
+d) To manage files and directories.
+
+10. How do you comment out a single line of code in Java?
+
+a) // comment
+b) /* comment */
+c) # comment
+d) Comments are not supported in Java.
+
+
+
+
+
+
+
+11. What is the difference between == and equals() in Java?
+
+a) == compares object references, equals() compares object values.
+b) equals() is only used for strings, == can be used for any data type.
+c) There is no difference, both operators do the same thing.
+d) equals() is a method, == is an operator.
+
+12. What is the purpose of the import statement in Java?
+
+a) To define a new class.
+b) To include code from another Java file.
+c) To create a variable.
+d) To write comments in your code.
+
+13. What is the output of the following code snippet? String message = "Hello"; String anotherMessage = new String("Hello"); System.out.println(message == anotherMessage);
+
+a) True
+b) False
+
+14. What is the difference between a primitive data type and a reference type in Java?
+
+a) Primitive data types store actual values, reference types store memory addresses.
+b) Primitive data types are mutable, reference types are immutable.
+c) There are only primitive data types in Java.
+d) All of the above.
+
+15. What is the keyword used to define an interface in Java?
+
+a) class
+b) object
+c) interface
+d) function
+
+Answers
+
+
+d)
+c)
+a)
+d)
+d)
+b)
+b)
+d)
+b)
+a)
+
+a)
+b)
+b)
+a)
+c)
+
+
+6-->b) or c) (both are valid)
