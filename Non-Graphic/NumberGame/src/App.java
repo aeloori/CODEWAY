@@ -5,6 +5,7 @@ class App{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         RandomNumbers rn=new RandomNumbers();
+        Gui.start();
 
         int rangeVal;
 
