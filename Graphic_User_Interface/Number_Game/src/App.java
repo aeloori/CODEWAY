@@ -1,7 +1,14 @@
-import pagewindow.Starting_Page;
+import java.awt.EventQueue;
+
+import game.Inital;
 
 public class App {
-    public static void main(String[] args) throws Exception {
-        Starting_Page str=new Starting_Page();
+
+    public static void main(String args[]) {
+        EventQueue.invokeLater(new Runnable() {
+            public void run() {
+                Inital start=new Inital();
+            }
+        });
     }
 }
